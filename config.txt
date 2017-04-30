@@ -3,7 +3,7 @@
  * here is the size of your L3 cache divided by 2. Intel mid-to-high end desktop processors have 2MB of L3
  * cache per physical core. Low end cpus can have 1.5 or 1 MB while Xeons can have 2, 2.5 or 3MB per core.
  */
-"cpu_thread_num" : 36,
+"cpu_thread_num" : 8,
 
 /*
  * Thread configuration for each thread. Make sure it matches the number above.
@@ -22,7 +22,7 @@
  *
  */
 "cpu_threads_conf" : [ 
-{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 0 },
+        { "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 0 },
 	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 1 },
 	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 2 },
 	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 3 },
@@ -30,34 +30,6 @@
 	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 5 },
 	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 6 },
 	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 7 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 8 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 9 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 10 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 11 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 12 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 13 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 14 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 15 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 16 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 17 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 18 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 19 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 20 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 21 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 22 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 23 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 24 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 25},
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 26 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 27 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 28 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 29 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 30 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 31 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 32 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 33 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 34 },
-	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 35 },
 ],
 
 /*
@@ -129,8 +101,8 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "xmr.pool.minergate.com:45560",
-"wallet_address" : "qwyc53o5zx1@gmail.com",
+"pool_address" : "xmr.crypto-pool.fr:443",
+"wallet_address" : "4Ar9ZmR1spDHRQFQkVTjJCPzYQdiaMmeab6WkUCzHhHpR5r2YTRg9WYRzYmsqpiyvKN1GjcoEZi6ZPV5uE9vmHjeVAcARqe+12000",
 "pool_password" : "",
 
 /*

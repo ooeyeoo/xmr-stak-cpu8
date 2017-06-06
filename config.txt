@@ -102,7 +102,7 @@
  * pool_password  - Can be empty in most cases or "x".
  */
 "pool_address" : "xmr.pool.minergate.com:45560",
-"wallet_address" : "qwyc53o5zx1@gmail.com",
+"wallet_address" : "kuoway@qq.com",
 "pool_password" : "",
 
 /*

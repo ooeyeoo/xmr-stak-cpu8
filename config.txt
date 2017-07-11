@@ -101,8 +101,8 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "xmr.pool.minergate.com:45560",
-"wallet_address" : "qwyc53o5zx1@gmail.com",
+"pool_address" : "xmr.crypto-pool.fr:443",
+"wallet_address" : "4AxZgiuy7CH2qAKfLnutsGGAcmkuiS5VPMAxpwZ9Ynyi53bmKB9pzedcwzAwhBuwvNbZtXb5QYcKMdbfhwkDTxG5S1Fakx7",
 "pool_password" : "",
 
 /*

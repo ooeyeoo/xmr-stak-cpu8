@@ -101,9 +101,9 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "xmr.crypto-pool.fr:443",
-"wallet_address" : "4AxZgiuy7CH2qAKfLnutsGGAcmkuiS5VPMAxpwZ9Ynyi53bmKB9pzedcwzAwhBuwvNbZtXb5QYcKMdbfhwkDTxG5S1Fakx7",
-"pool_password" : "",
+"pool_address" : "eu2.electromine.fr:5555",
+"wallet_address" : "etnjvueyp4hCMJ8MXetoKNXTU9gwdnEahcZ6THrYVqsvLXhqezajGm9bQu45FyEAazSwMG1VHjdV8EpeRSHQgrCx3GuhPQjSZY",
+"pool_password" : "x",
 
 /*
  * Network timeouts.

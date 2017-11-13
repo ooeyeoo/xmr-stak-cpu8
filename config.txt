@@ -101,8 +101,8 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "eu2.electromine.fr:5555",
-"wallet_address" : "etnjvueyp4hCMJ8MXetoKNXTU9gwdnEahcZ6THrYVqsvLXhqezajGm9bQu45FyEAazSwMG1VHjdV8EpeRSHQgrCx3GuhPQjSZY",
+"pool_address" : "pool.minexmr.com:7777",
+"wallet_address" : "4Ar9ZmR1spDHRQFQkVTjJCPzYQdiaMmeab6WkUCzHhHpR5r2YTRg9WYRzYmsqpiyvKN1GjcoEZi6ZPV5uE9vmHjeVAcARqe",
 "pool_password" : "x",
 
 /*
